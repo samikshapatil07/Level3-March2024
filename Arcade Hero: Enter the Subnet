@@ -1,0 +1,5 @@
+export REGION=
+
+curl -LO raw.githubusercontent.com/Techcps/ARC/master/Arcade%20Hero%3A%20Enter%20the%20Subnet%20ARC127/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh
